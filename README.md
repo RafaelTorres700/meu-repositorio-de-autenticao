@@ -6,3 +6,5 @@ Repositorio de testes de autenticações.
 2- autenticação via token de acesso pessoal;
 
 3- ultimo teste com token copiado
+
+4- ultimo teste sozinho
